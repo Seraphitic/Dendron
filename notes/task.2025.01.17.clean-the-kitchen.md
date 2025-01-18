@@ -2,12 +2,12 @@
 id: xouuzu90nmaefnvgakgdxys
 title: Clean the Kitchen
 desc: ''
-updated: 1737141316349
+updated: 1737227706882
 created: 1737140827174
-status: ''
-due: ''
-priority: ''
-owner: ''
+status: wip
+due: '2025-01-18'
+priority: h
+owner: Kyle Vivian
 TODO: Clean the Kitchen
 ---
 - [[Collect all the dishes|task.2025.01.17.collect-all-the-dishes]]

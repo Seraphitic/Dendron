@@ -91,3 +91,5 @@ let lostNumbers = [4,8,15,16,23,42]
 ```
 - The `:` (cons operator) prepends a single object to a list instantly
 - `:` requires the left to be a single object and the right to be a list of that kind of object.
+
+Starting Out
