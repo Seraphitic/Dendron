@@ -2,7 +2,7 @@
 id: ou63e199bfw1q5yuuhcou2o
 title: Starting Out
 desc: ''
-updated: 1737144047505
+updated: 1737226900797
 created: 1736522104495
 tags:
   - book.chapter
@@ -13,7 +13,7 @@ tags:
 ## Ready, set, go!
 - Use ghci for interactive Haskell
 - Regular infix math notation
-    - Use parens around negative numbers
+    - Use `()` around negative numbers
 - Boolean algebra
     - `True` and `False` are bools
     - `&&` is `and`
