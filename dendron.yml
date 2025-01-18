@@ -56,7 +56,7 @@ workspace:
             H: high
             M: medium
             L: low
-        todoIntegration: false
+        todoIntegration: true
         createTaskSelectionType: selection2link
     graph:
         zoomSpeed: 1
